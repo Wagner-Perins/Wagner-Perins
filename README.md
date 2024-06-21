@@ -2,7 +2,7 @@
 
 🎓 Eu estudo [[Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Cubos Academy](https://cubos.academy/)]
 
-🔎 Também sou curioso sobre [Designer de games e Artes em geral]
+🔎 Também sou curioso sobre [Design de games e Artes em geral]
 
 ✒️ Eu gosto de no meu tempo livre [Jogar Video-Game, Ler, Brincar com meu gato.];
 
